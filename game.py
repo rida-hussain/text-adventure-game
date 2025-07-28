@@ -5,6 +5,7 @@ inventory = {
     "has_wand": False
 }
 
+
 def game_over():
     print("GAME OVER")
     exit()
